@@ -1,15 +1,10 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
 package gradecalculator;
 
 import java.util.Scanner;
 
 /**
- *
- * @author Dylan
+ * student number: 200368636
+ * @author Dylan Sprague
  */
 public class GradeCalculator {
     public static void main(String[] args) {
