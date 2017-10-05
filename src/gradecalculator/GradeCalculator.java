@@ -64,7 +64,7 @@ public class GradeCalculator {
             }
         else
         {
-            letter = "ERROR: GRADE NOT BETWEEN 1-100 | OVERALL AVERAGE % CALCULATED ANYWAY!";
+            letter = "ERROR: GRADE NOT BETWEEN 0-100 | OVERALL AVERAGE % CALCULATED ANYWAY!";
         }
         
         return letter;
